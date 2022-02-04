@@ -3,6 +3,7 @@
 -  LinkedIn: https://www.linkedin.com/in/oleg-kotok/
 -  nickett.portfoliobox.net
 
+---------------------------------------
 ![](https://komarev.com/ghpvc/?username=OlegKotok&color=green)
 
 <!---
