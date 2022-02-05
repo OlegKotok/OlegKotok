@@ -5,8 +5,6 @@
 
 ---------------------------------------
 ![](https://komarev.com/ghpvc/?username=OlegKotok&color=green)
-![Visitor Count](https://profile-counter.glitch.me/OlegKotok/count.svg)
-
 
 <!---
 OlegKotok/OlegKotok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
